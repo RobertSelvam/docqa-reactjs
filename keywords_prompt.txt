@@ -1,3 +1,0 @@
-Your Task is Extract the important keywords from the query.
-  query : {query}
-Return Extarcted keywords only.
